@@ -1,7 +1,8 @@
 # pythonExercises :snake:
+made in jupyter-notebook :pushpin:
 <div align="center">
 <br>
-<h2>Four exercises in python using pandas, numpy, matplotlib</h2>
+<h2>Four python exercises using pandas, numpy, matplotlib</h2>
 <br><br>
 <h3>pandas -> DataFrame and working with .csv files</h3>
 <img src="/pythonExercises/images/exercicio1.png">
